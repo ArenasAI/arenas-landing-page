@@ -2,9 +2,9 @@
 <h4 text-align="center">Your AI Data Analyst</h4>
 
 <br />
-<h3>Table of Contents</h3>
-<ol>About the Project</ol>
-  <h3>Landing page for Arenas AI</h3>
+
+<h3>About the Project</h3>
+  <p>Landing page for Arenas AI</p>
 
 <ol>Built With</ol>
   <li>Next.js</li>
