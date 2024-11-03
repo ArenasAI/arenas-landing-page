@@ -4,7 +4,9 @@
 <br />
 <h3>Table of Contents</h3>
 <ol>About the Project</ol>
-  <ol>Built With</ol>
-    <li>Next.js</li>
-    <li>TailwindCSS</li>
-    <li>JavaScript</li>
+  <h3>Landing page for Arenas AI</h3>
+
+<ol>Built With</ol>
+  <li>Next.js</li>
+  <li>TailwindCSS</li>
+  <li>JavaScript</li>
