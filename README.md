@@ -3,10 +3,6 @@
 
 <br />
 
-<h3>About the Project</h3>
-  <p>Landing page for Arenas AI</p>
-
 <ol>Built With</ol>
   <li>Next.js</li>
   <li>TailwindCSS</li>
-  <li>JavaScript</li>
